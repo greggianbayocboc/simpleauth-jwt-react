@@ -1,0 +1,7 @@
+
+//development
+dependencies {
+
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-tomcat', version:'1.4.0.RELEASE'
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-websocket', version:"${springBootVersion}"
+}
